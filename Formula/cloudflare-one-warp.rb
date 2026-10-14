@@ -1,8 +1,8 @@
 class CloudflareOneWarp < Formula
   desc "Cloudflare One WARP — unofficial Cloudflare One client via warp-cli"
   homepage "https://github.com/bodencrouch/cloudflare-one-warp"
-  url "https://github.com/bodencrouch/cloudflare-one-warp/releases/download/v0.3.5/cloudflare-one-warp-0.3.5-src.tar.gz"
-  sha256 "98efe99badd0cba7dc9fa4695eba88cae1528fdb465163a87c85ba3f14356719"
+  url "https://github.com/bodencrouch/cloudflare-one-warp/releases/download/v0.3.6/cloudflare-one-warp-0.3.6-src.tar.gz"
+  sha256 "d00786ed4c735445a9487e2ff3274954f837eb54ccb6d9aee1a94fd6288fb5d5"
   license "MIT"
 
   depends_on "node@24"
